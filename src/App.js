@@ -1,6 +1,6 @@
 import React, { Component, Suspense } from 'react';
 import './App.css';
-import { Component1 } from './some-components';
+import { Component1 } from './components';
 
 const LazySection = React.lazy(() => import('./lazy'));
 

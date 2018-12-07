@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Component2 } from './some-components';
+import { Component2 } from './components';
 
 export default () => {
   return (
